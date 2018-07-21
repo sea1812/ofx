@@ -25,6 +25,6 @@ OFX主要希望实现以下功能：
 * 有关XTP的详细资料请访问其[官方网站](http://xtp.zts.com.cn)。
 ## 目录说明
 * demo目录：测试和演示程序。
-* documents：有关文档和说明文件。
-* octkeypass：OFX默认加密库文件。
-* xtp：OFX开发时依照的XTP官方头文件。
+* document目录：有关文档和说明文件。
+* octkeypass目录：OFX默认加密库文件。
+* xtp目录：OFX开发时依照的XTP官方头文件。
