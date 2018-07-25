@@ -41,7 +41,7 @@ OFX主要希望实现以下功能：
     * **各种C++**：没问题，没什么是C++不能办到的。
     * **C#，VB等微软系开发语言**：没问题，VS是地表最强IDE。
     * **Python**：没问题，我们在用，Windows、Linux都可以。
-    * **Golang**：没问题，我们用过，只是在使用加密库时，Golang调用DLL时需要多做一点工作，如果不用加密库就没这问题了。
+    * **Golang**：没问题，只是在使用加密库时，Golang调用DLL时需要多做一些工作，如果不用加密库就没这个麻烦了。
     * **Pascal**：没问题，我们在用，不管是Delphi还是Free Pascal，都没问题，Windows、Linux都可以。
     * **PHP，Javascript**：正在测试。
     * **JAVA**：正在测试。
