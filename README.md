@@ -43,8 +43,8 @@ OFX主要希望实现以下功能：
     * **Python**：没问题，我们在用2.7，Windows、Linux都可以。
     * **Golang**：没问题，只是在使用加密库时，Golang调用DLL时需要多做一些工作，如果不用加密库就没这个麻烦了。
     * **Pascal**：没问题，我们在用，不管是Delphi还是Free Pascal，都没问题，Windows、Linux都可以。
-    * **PHP，Javascript**：正在测试。
-    * **Java**：正在测试。
+    * **PHP，Javascript**：不着急用，正在悠哉游哉地测试。
+    * **Java**：不着急用，正在悠哉游哉地测试。
 * OFX只在XTP提供的测试环境中运行并测试，未在生产环境中测试过。
 * 有关XTP的详细资料请访问其[官方网站](http://xtp.zts.com.cn)。
 ## 目录说明
