@@ -1,4 +1,4 @@
-# Octopus for XTP （简称OFX） 
+# Octopus For XTP （简称OFX） 
 ## 简介
 OFX是一套为对接XTP开发的前端服务软件，目的是简化客户端开发调试工作，降低工作量，同时为开发其他实用交易功能提供支持。
 OFX主要希望实现以下功能：
