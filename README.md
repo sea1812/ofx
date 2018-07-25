@@ -21,7 +21,7 @@ OFX主要希望实现以下功能：
     * 需要 **使用多种语言实现客户端功能的**。例如C#语言做人工操作界面，Python语言做技术分析（Pandas和TA-LIB），OFX可以让你这么做。每个客户端软件可以用不同语言实现，用最适合的语言做最适合的事情。
 ## 最近的主要更新
 * 增加有关ETF清单和篮子信息的报文指令处理。
-* 详细信息[点击这里](https://github.com/sea1812/ofx/blob/master/CHANGES.md)。
+* 详细信息 [点击这里](https://github.com/sea1812/ofx/blob/master/CHANGES.md)。
 ## 目前已经完成的工作
 * OFX已经完成原型开发，并在XTP官方提供的测试环境下经过了至少30个交易日测试，可正常使用，基本达到了设计目标。
 * 已有Python、Go、Delphi/Lazarus三种语言实现了客户端连接。
