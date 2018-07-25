@@ -1,5 +1,5 @@
 # Changes
-
+All changes of the prject
 ## 2018-07-25
 * trade_server:
     * line 27: Add object etf_basket_sender
