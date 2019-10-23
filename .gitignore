@@ -94,3 +94,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Mywork
+mywrok/
